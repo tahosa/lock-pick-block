@@ -17,6 +17,10 @@ appropriate for 3D printing.
 Feel free to send pull requests with any updates to the files, remixes, other
 layouts, or openSCAD definitions of any of the existing models.
 
+### Attribution
+
+Ideas, concept, and design consultation from [Marc Brotherson (@typeslower)](https://github.com/typeslower).
+
 ### License
 
 This project is licensed under the Creative Commons CC-BY-SA 4.0 license. See
