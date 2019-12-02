@@ -19,7 +19,7 @@ layouts, or openSCAD definitions of any of the existing models.
 
 ### Attribution
 
-Ideas, concept, and design consultation from [Marc Brotherson (@typeslower)](https://github.com/typeslower).
+Ideas, concept, and design consultation from [Marc Brotherson (@heaphopopotamus)](https://github.com/heaphopopotamus).
 
 ### License
 
